@@ -1,0 +1,503 @@
+race,race_name,stage_number,stage,stage_date,distance,elev_gain,climb_urls,startlist_quality,profile_score,finish_type
+race/world-championship/2018,World Championships ME - Road Race,,,2018-09-30,258.0,5020,[],1374,265,Sprint of small group
+race/world-championship/2019,World Championships ME - Road Race,,,2019-09-29,260.7,3220,[],1443,82,Sprint of small group
+race/world-championship/2020,World Championships ME - Road Race,,,2020-09-27,258.2,4662,[],1008,208,12 km solo
+race/world-championship/2021,World Championships ME - Road Race,,,2021-09-26,268.3,2250,[],1357,54,17.4 km solo
+race/world-championship/2022,World Championships ME - Road Race,,,2022-09-25,266.9,4167,[],1052,160,25.8 km solo
+race/world-championship/2023,World Championships ME - Road Race,,,2023-08-06,271.1,3385,[],1115,73,22.3 km solo
+race/amstel-gold-race/2018,Amstel Gold Race,,,2018-04-15,263.0,3496,[],1139,103,Sprint à deux
+race/amstel-gold-race/2019,Amstel Gold Race,,,2019-04-21,265.7,3536,[],1020,108,Sprint of 18 riders
+race/amstel-gold-race/2021,Amstel Gold Race,,,2021-04-18,218.6,2893,[],1089,81,Sprint of small group
+race/amstel-gold-race/2022,Amstel Gold Race,,,2022-04-10,254.1,3460,[],705,112,Sprint à deux
+race/amstel-gold-race/2023,Amstel Gold Race,,,2023-04-16,253.6,3290,[],770,109,28.2 km solo
+race/milano-sanremo/2018,Milano-Sanremo,,,2018-03-17,294.0,2143,[],1096,61,7.1 km solo
+race/milano-sanremo/2019,Milano-Sanremo,,,2019-03-23,291.0,2060,[],1171,60,Sprint of 41 riders
+race/milano-sanremo/2020,Milano-Sanremo,,,2020-08-08,305.0,2803,[],1005,68,Sprint à deux
+race/milano-sanremo/2021,Milano-Sanremo,,,2021-03-20,299.0,2020,[],1088,59,Sprint à deux
+race/milano-sanremo/2022,Milano-Sanremo,,,2022-03-19,293.0,2096,[],938,63,4.3 km solo
+race/milano-sanremo/2023,Milano-Sanremo,,,2023-03-18,294.0,2154,[],1047,63,5.5 km solo
+race/liege-bastogne-liege/2018,Liège - Bastogne - Liège,,,2018-04-22,258.5,4109,[],1168,178,18 km solo
+race/liege-bastogne-liege/2019,Liège - Bastogne - Liège,,,2019-04-28,256.0,4075,[],1087,158,13 km solo
+race/liege-bastogne-liege/2020,Liège - Bastogne - Liège,,,2020-10-04,257.0,4353,[],867,182,Sprint of small group
+race/liege-bastogne-liege/2021,Liège - Bastogne - Liège,,,2021-04-25,259.1,4352,[],1147,181,Sprint of small group
+race/liege-bastogne-liege/2022,Liège - Bastogne - Liège,,,2022-04-24,257.2,4342,[],1101,182,14.4 km solo
+race/liege-bastogne-liege/2023,Liège - Bastogne - Liège,,,2023-04-23,258.1,4443,[],1042,175,29.9 km solo
+race/il-lombardia/2018,Il Lombardia,,,2018-10-13,241.0,3867,[],1025,257,13.9 km solo
+race/il-lombardia/2019,Il Lombardia,,,2019-10-12,243.0,4087,[],1039,266,18.3 km solo
+race/il-lombardia/2020,Il Lombardia,,,2020-08-15,231.0,3975,[],589,260,6.3 km solo
+race/il-lombardia/2021,Il Lombardia,,,2021-10-09,239.0,4659,[],1069,210,Sprint à deux
+race/il-lombardia/2022,Il Lombardia,,,2022-10-08,253.0,4852,[],1019,278,Sprint à deux
+race/il-lombardia/2023,Il Lombardia,,,2023-10-07,238.0,4646,[],1099,206,31 km solo
+race/la-fleche-wallone/2018,La Flèche Wallonne,,,2018-04-18,198.5,3257,[],1053,187,0.3 km solo
+race/la-fleche-wallone/2019,La Flèche Wallonne,,,2019-04-24,195.0,2930,[],1017,179,Sprint à deux
+race/la-fleche-wallone/2020,La Flèche Wallonne,,,2020-09-30,202.0,3124,[],601,167,Sprint of small group
+race/la-fleche-wallone/2021,La Flèche Wallonne,,,2021-04-21,193.6,2981,[],1071,158,Sprint à deux
+race/la-fleche-wallone/2022,La Flèche Wallonne,,,2022-04-20,202.1,3160,[],971,173,Sprint à deux
+race/la-fleche-wallone/2023,La Flèche Wallonne,,,2023-04-19,194.3,3092,[],915,167,Sprint of small group
+race/paris-roubaix/2018,Paris - Roubaix,,,2018-04-08,257.0,1309,[],811,4,Sprint à deux
+race/paris-roubaix/2019,Paris - Roubaix,,,2019-04-14,257.0,1334,[],690,5,Sprint à deux
+race/paris-roubaix/2021,Paris - Roubaix,,,2021-10-03,257.7,1360,[],982,5,Sprint of small group
+race/paris-roubaix/2022,Paris - Roubaix,,,2022-04-17,257.2,1362,[],747,5,19.5 km solo
+race/paris-roubaix/2023,Paris - Roubaix,,,2023-04-09,256.6,1380,[],775,4,15.1 km solo
+race/ronde-van-vlaanderen/2018,Ronde van Vlaanderen,,,2018-04-01,264.7,2166,[],920,78,19 km solo
+race/ronde-van-vlaanderen/2019,Ronde van Vlaanderen,,,2019-04-07,267.0,2164,[],881,72,17 km solo
+race/ronde-van-vlaanderen/2020,Ronde van Vlaanderen,,,2020-10-18,243.3,2014,[],804,79,Sprint à deux
+race/ronde-van-vlaanderen/2021,Ronde van Vlaanderen,,,2021-04-04,254.3,2198,[],872,81,Sprint à deux
+race/ronde-van-vlaanderen/2022,Ronde van Vlaanderen,,,2022-04-03,272.5,2289,[],759,79,Sprint of small group
+race/ronde-van-vlaanderen/2023,Ronde van Vlaanderen,,,2023-04-02,273.4,2185,[],918,76,17 km solo
+race/gent-wevelgem/2018,Gent-Wevelgem,,,2018-03-25,251.1,1532,[],867,46,Sprint of 19 riders
+race/gent-wevelgem/2019,Gent-Wevelgem,,,2019-03-31,249.5,1511,[],887,37,Sprint of large group
+race/gent-wevelgem/2020,Gent-Wevelgem,,,2020-10-11,232.5,1360,[],682,33,Sprint of small group
+race/gent-wevelgem/2021,Gent-Wevelgem,,,2021-03-28,250.0,1425,[],797,36,Sprint of small group
+race/gent-wevelgem/2022,Gent-Wevelgem,,,2022-03-27,248.8,1377,[],832,35,Sprint of small group
+race/gent-wevelgem/2023,Gent-Wevelgem,,,2023-03-26,260.9,1375,[],911,34,Other
+race/san-sebastian/2018,Donostia San Sebastian Klasikoa,,,2018-08-04,228.7,4130,[],790,172,Sprint à deux
+race/san-sebastian/2019,Donostia San Sebastian Klasikoa,,,2019-08-03,227.3,3980,[],785,188,8.8 km solo
+race/san-sebastian/2021,Donostia San Sebastian Klasikoa,,,2021-07-31,223.5,4113,[],645,225,Sprint of small group
+race/san-sebastian/2022,Donostia San Sebastian Klasikoa,,,2022-07-30,224.8,4147,[],724,231,44.5 km solo
+race/san-sebastian/2023,Donostia San Sebastian Klasikoa,,,2023-07-29,230.3,4057,[],787,189,Sprint à deux
+race/tour-de-france/2018,Tour de France,1,race/tour-de-france/2018/stage-1,2018-07-07,201.0,454,[],1689,2,Sprint of large group
+race/tour-de-france/2018,Tour de France,2,race/tour-de-france/2018/stage-2,2018-07-08,182.5,1395,[],1689,14,Sprint of large group
+race/tour-de-france/2018,Tour de France,3,race/tour-de-france/2018/stage-3,2018-07-09,35.5,387,[],1689,13,Time Trial
+race/tour-de-france/2018,Tour de France,4,race/tour-de-france/2018/stage-4,2018-07-10,195.0,1155,[],1689,14,Sprint of large group
+race/tour-de-france/2018,Tour de France,5,race/tour-de-france/2018/stage-5,2018-07-11,204.5,2704,[],1689,107,Sprint of large group
+race/tour-de-france/2018,Tour de France,6,race/tour-de-france/2018/stage-6,2018-07-12,181.0,2027,[],1689,95,1.1 km solo
+race/tour-de-france/2018,Tour de France,7,race/tour-de-france/2018/stage-7,2018-07-13,231.0,2255,[],1689,40,Sprint of large group
+race/tour-de-france/2018,Tour de France,8,race/tour-de-france/2018/stage-8,2018-07-14,181.0,1284,[],1689,17,Sprint of large group
+race/tour-de-france/2018,Tour de France,9,race/tour-de-france/2018/stage-9,2018-07-15,156.5,618,[],1689,1,Sprint of 27 riders
+race/tour-de-france/2018,Tour de France,10,race/tour-de-france/2018/stage-10,2018-07-17,158.5,4254,[],1689,320,29.4 km solo
+race/tour-de-france/2018,Tour de France,11,race/tour-de-france/2018/stage-11,2018-07-18,108.5,4093,[],1689,349,0.4 km solo
+race/tour-de-france/2018,Tour de France,12,race/tour-de-france/2018/stage-12,2018-07-19,175.5,5362,[],1689,405,Sprint of small group
+race/tour-de-france/2018,Tour de France,13,race/tour-de-france/2018/stage-13,2018-07-20,169.5,1302,[],1689,46,Sprint of large group
+race/tour-de-france/2018,Tour de France,14,race/tour-de-france/2018/stage-14,2018-07-21,188.0,3365,[],1689,189,2 km solo
+race/tour-de-france/2018,Tour de France,15,race/tour-de-france/2018/stage-15,2018-07-22,181.0,2917,[],1689,118,Sprint of 15 riders
+race/tour-de-france/2018,Tour de France,16,race/tour-de-france/2018/stage-16,2018-07-24,218.0,3521,[],1689,202,? km solo
+race/tour-de-france/2018,Tour de France,17,race/tour-de-france/2018/stage-17,2018-07-25,65.0,3274,[],1689,428,8 km solo
+race/tour-de-france/2018,Tour de France,18,race/tour-de-france/2018/stage-18,2018-07-26,171.0,1312,[],1689,34,Sprint of large group
+race/tour-de-france/2018,Tour de France,19,race/tour-de-france/2018/stage-19,2018-07-27,200.5,5046,[],1689,290,8 km solo
+race/tour-de-france/2018,Tour de France,20,race/tour-de-france/2018/stage-20,2018-07-28,31.0,543,[],1689,46,Time Trial
+race/tour-de-france/2018,Tour de France,21,race/tour-de-france/2018/stage-21,2018-07-29,116.0,732,[],1689,6,Sprint of large group
+race/tour-de-france/2019,Tour de France,1,race/tour-de-france/2019/stage-1,2019-07-06,194.5,1582,[],1699,20,Sprint of large group
+race/tour-de-france/2019,Tour de France,2,race/tour-de-france/2019/stage-2,2019-07-07,27.6,267,[],1699,7,Time Trial
+race/tour-de-france/2019,Tour de France,3,race/tour-de-france/2019/stage-3,2019-07-08,215.0,2299,[],1699,97,16 km solo
+race/tour-de-france/2019,Tour de France,4,race/tour-de-france/2019/stage-4,2019-07-09,213.5,1555,[],1699,32,Sprint of large group
+race/tour-de-france/2019,Tour de France,5,race/tour-de-france/2019/stage-5,2019-07-10,175.5,2325,[],1699,132,Sprint of large group
+race/tour-de-france/2019,Tour de France,6,race/tour-de-france/2019/stage-6,2019-07-11,160.5,3944,[],1699,329,0.1 km solo
+race/tour-de-france/2019,Tour de France,7,race/tour-de-france/2019/stage-7,2019-07-12,230.0,2367,[],1699,36,Sprint of large group
+race/tour-de-france/2019,Tour de France,8,race/tour-de-france/2019/stage-8,2019-07-13,200.0,3844,[],1699,189,14.1 km solo
+race/tour-de-france/2019,Tour de France,9,race/tour-de-france/2019/stage-9,2019-07-14,170.5,2717,[],1699,114,Sprint à deux
+race/tour-de-france/2019,Tour de France,10,race/tour-de-france/2019/stage-10,2019-07-15,217.5,3031,[],1699,85,Sprint of large group
+race/tour-de-france/2019,Tour de France,11,race/tour-de-france/2019/stage-11,2019-07-17,167.0,1827,[],1699,43,Sprint of large group
+race/tour-de-france/2019,Tour de France,12,race/tour-de-france/2019/stage-12,2019-07-18,209.5,3088,[],1699,177,Sprint of 14 riders
+race/tour-de-france/2019,Tour de France,13,race/tour-de-france/2019/stage-13,2019-07-19,27.2,391,[],1699,33,Time Trial
+race/tour-de-france/2019,Tour de France,14,race/tour-de-france/2019/stage-14,2019-07-20,111.0,3376,[],1699,359,0.2 km solo
+race/tour-de-france/2019,Tour de France,15,race/tour-de-france/2019/stage-15,2019-07-21,185.0,4345,[],1699,365,9 km solo
+race/tour-de-france/2019,Tour de France,16,race/tour-de-france/2019/stage-16,2019-07-23,177.0,1626,[],1699,29,Sprint of large group
+race/tour-de-france/2019,Tour de France,17,race/tour-de-france/2019/stage-17,2019-07-24,200.0,2472,[],1699,85,14 km solo
+race/tour-de-france/2019,Tour de France,18,race/tour-de-france/2019/stage-18,2019-07-25,208.0,5215,[],1699,232,26 km solo
+race/tour-de-france/2019,Tour de France,19,race/tour-de-france/2019/stage-19,2019-07-26,89.0,2995,[],1699,317,? - let us know!
+race/tour-de-france/2019,Tour de France,20,race/tour-de-france/2019/stage-20,2019-07-27,59.5,2228,[],1699,267,12 km solo
+race/tour-de-france/2019,Tour de France,21,race/tour-de-france/2019/stage-21,2019-07-28,128.0,781,[],1699,10,Sprint of large group
+race/tour-de-france/2020,Tour de France,1,race/tour-de-france/2020/stage-1,2020-08-29,156.0,1597,['location/cote-de-rimiez'],1662,46,Sprint of large group
+race/tour-de-france/2020,Tour de France,2,race/tour-de-france/2020/stage-2,2020-08-30,185.0,4066,"['location/col-saint-martin', 'location/col-de-turini', 'location/col-d-eze']",1662,188,Sprint of small group
+race/tour-de-france/2020,Tour de France,3,race/tour-de-france/2020/stage-3,2020-08-31,198.0,3003,"['location/col-du-pilon', 'location/col-de-la-faye', 'location/col-des-leques', 'location/col-de-l-orme']",1662,81,Sprint of large group
+race/tour-de-france/2020,Tour de France,4,race/tour-de-france/2020/stage-4,2020-09-01,160.5,3200,"['location/col-du-festre', 'location/cote-de-corps', 'location/cote-de-l-aullagnier', 'location/cote-de-saint-leger-les-melezes', 'location/orcieres-merlette']",1662,200,Sprint of small group
+race/tour-de-france/2020,Tour de France,5,race/tour-de-france/2020/stage-5,2020-09-02,183.0,1388,"['location/col-de-serre-colon', 'location/cote-de-saint-vincent-de-barres']",1662,31,Sprint of large group
+race/tour-de-france/2020,Tour de France,6,race/tour-de-france/2020/stage-6,2020-09-03,191.0,3087,"['location/cap-de-coste', 'location/col-des-mourezes', 'location/col-de-la-lusette']",1662,227,17 km solo
+race/tour-de-france/2020,Tour de France,7,race/tour-de-france/2020/stage-7,2020-09-04,168.0,2011,"['location/cote-de-luzencon', 'location/col-de-peyronnenc', 'location/cote-de-paulhe']",1662,47,Sprint of large group
+race/tour-de-france/2020,Tour de France,8,race/tour-de-france/2020/stage-8,2020-09-05,141.0,3821,"['location/col-de-mente', 'location/port-de-bales', 'location/col-de-peyresourde']",1662,295,35 km solo
+race/tour-de-france/2020,Tour de France,9,race/tour-de-france/2020/stage-9,2020-09-06,153.0,3500,"['location/cote-d-artiguelouve', 'location/col-de-la-hourcere', 'location/col-de-soudet', 'location/col-d-ichere', 'location/col-du-marie-blanque']",1662,239,Sprint of small group
+race/tour-de-france/2020,Tour de France,10,race/tour-de-france/2020/stage-10,2020-09-08,168.5,531,[],1662,2,Sprint of large group
+race/tour-de-france/2020,Tour de France,11,race/tour-de-france/2020/stage-11,2020-09-09,166.5,1008,['location/cote-de-cherveux'],1662,13,Sprint of large group
+race/tour-de-france/2020,Tour de France,12,race/tour-de-france/2020/stage-12,2020-09-10,218.0,3389,"['location/cote-de-saint-martin-terressus', 'location/cote-d-eybouleuf', 'location/cote-de-la-croix-du-pey', 'location/suc-au-may']",1662,142,28 km solo
+race/tour-de-france/2020,Tour de France,13,race/tour-de-france/2020/stage-13,2020-09-11,191.5,4459,"['location/col-de-ceyssat', 'location/col-de-guery', 'location/montee-de-la-stele', 'location/cote-de-l-estiade', 'location/cote-d-anglards-de-salers', 'location/col-de-neronne', 'location/pas-de-peyrol']",1662,302,0.1 km solo
+race/tour-de-france/2020,Tour de France,14,race/tour-de-france/2020/stage-14,2020-09-12,194.0,2646,"['location/cote-du-chateau-d-aulteribe', 'location/col-du-beal', 'location/cote-de-courreau', 'location/cote-de-la-duchere', 'location/cote-de-la-croix-rousse']",1662,73,3 km solo
+race/tour-de-france/2020,Tour de France,15,race/tour-de-france/2020/stage-15,2020-09-13,174.5,3724,"['location/montee-de-la-selle-de-fromentelle', 'location/col-de-la-biche-croix-de-famban', 'location/col-du-grand-colombier']",1662,390,Sprint à deux
+race/tour-de-france/2020,Tour de France,16,race/tour-de-france/2020/stage-16,2020-09-15,164.0,3903,"['location/cote-de-virieu', 'location/col-de-porte', 'location/cote-de-revel', 'location/montee-de-saint-nizier-du-moucherotte', 'location/cote-2000']",1662,250,25 km solo
+race/tour-de-france/2020,Tour de France,17,race/tour-de-france/2020/stage-17,2020-09-16,170.0,4430,"['location/col-de-la-madeleine', 'location/col-de-la-loze']",1662,444,3.5 km solo
+race/tour-de-france/2020,Tour de France,18,race/tour-de-france/2020/stage-18,2020-09-17,175.0,5166,"['location/cormet-de-roselend', 'location/cote-de-la-route-des-villes', 'location/col-des-saisies', 'location/col-des-aravis', 'location/montee-du-plateau-des-glieres']",1662,314,Other
+race/tour-de-france/2020,Tour de France,19,race/tour-de-france/2020/stage-19,2020-09-18,166.5,2208,['location/cote-de-chateau-chalon'],1662,77,16 km solo
+race/tour-de-france/2020,Tour de France,20,race/tour-de-france/2020/stage-20,2020-09-19,36.2,962,['location/la-planche-des-belles-filles'],1662,135,Time Trial
+race/tour-de-france/2020,Tour de France,21,race/tour-de-france/2020/stage-21,2020-09-20,122.0,816,['location/cote-de-beulle'],1662,11,Sprint of large group
+race/tour-de-france/2021,Tour de France,1,race/tour-de-france/2021/stage-1,2021-06-26,197.8,2843,"['location/cote-de-trebeolin', 'location/cote-de-rosnoen', 'location/cote-de-locronan', 'location/cote-de-stang-ar-garront', 'location/cote-de-saint-rivoal', 'location/la-croix-neuve']",1646,109,2.2 km solo
+race/tour-de-france/2021,Tour de France,2,race/tour-de-france/2021/stage-2,2021-06-27,183.5,2210,"['location/cote-de-sainte-barbe', 'location/cote-de-pordic', 'location/cote-de-saint-brieuc', 'location/cote-du-village-de-mur-de-bretagne', 'location/mur-de-bretagne']",1646,102,0.75 km solo
+race/tour-de-france/2021,Tour de France,3,race/tour-de-france/2021/stage-3,2021-06-28,182.9,1534,"['location/cote-de-cadoudal', 'location/cote-de-plumeliau']",1646,34,Sprint of large group
+race/tour-de-france/2021,Tour de France,4,race/tour-de-france/2021/stage-4,2021-06-29,150.4,1404,[],1646,24,Sprint of large group
+race/tour-de-france/2021,Tour de France,5,race/tour-de-france/2021/stage-5,2021-06-30,27.2,356,[],1646,17,Time Trial
+race/tour-de-france/2021,Tour de France,6,race/tour-de-france/2021/stage-6,2021-07-01,160.4,977,['location/cote-de-saint-aignan'],1646,5,Sprint of large group
+race/tour-de-france/2021,Tour de France,7,race/tour-de-france/2021/stage-7,2021-07-02,249.1,3120,"['location/cote-de-chateau-chinon', 'location/cote-de-glux-en-glenne', 'location/cote-de-la-croix-de-la-liberation', 'location/signal-d-uchon', 'location/cote-de-la-gourloye']",1646,146,18 km solo
+race/tour-de-france/2021,Tour de France,8,race/tour-de-france/2021/stage-8,2021-07-03,150.8,3557,"['location/cote-de-copponex', 'location/cote-de-menthonnex-en-bornes', 'location/cote-de-mont-saxonnex', 'location/col-de-romme', 'location/col-de-la-colombiere']",1646,310,15.4 km solo
+race/tour-de-france/2021,Tour de France,9,race/tour-de-france/2021/stage-9,2021-07-04,144.9,4628,"['location/cote-de-domancy', 'location/col-des-saisies', 'location/col-du-pre', 'location/cormet-de-roselend', 'location/montee-de-tignes']",1646,381,17.3 km solo
+race/tour-de-france/2021,Tour de France,10,race/tour-de-france/2021/stage-10,2021-07-06,190.7,1488,['location/col-de-couz'],1646,29,Sprint of large group
+race/tour-de-france/2021,Tour de France,11,race/tour-de-france/2021/stage-11,2021-07-07,198.9,4671,"['location/cote-de-fontaine-de-vaucluse', 'location/cote-de-gordes', 'location/col-de-la-liguiere', 'location/mont-ventoux']",1646,282,33.1 km solo
+race/tour-de-france/2021,Tour de France,12,race/tour-de-france/2021/stage-12,2021-07-08,159.4,2052,['location/cote-du-belvedere-de-tharaux'],1646,52,11.8 km solo
+race/tour-de-france/2021,Tour de France,13,race/tour-de-france/2021/stage-13,2021-07-09,219.9,2023,['location/pic-saint-loup'],1646,29,Sprint of large group
+race/tour-de-france/2021,Tour de France,14,race/tour-de-france/2021/stage-14,2021-07-10,183.7,2877,"['location/col-du-bac', 'location/col-de-montsegur', 'location/col-de-la-croix-des-morts', 'location/cote-de-galinagues', 'location/col-de-saint-louis']",1646,125,42.7 km solo
+race/tour-de-france/2021,Tour de France,15,race/tour-de-france/2021/stage-15,2021-07-11,191.3,4572,"['location/montee-de-mont-louis', 'location/col-de-puymorens', 'location/port-d-envalira', 'location/col-de-beixalis']",1646,234,19.5 km solo
+race/tour-de-france/2021,Tour de France,16,race/tour-de-france/2021/stage-16,2021-07-13,169.0,3260,"['location/col-de-port', 'location/col-de-la-core', 'location/col-de-portet-d-aspet', 'location/cote-d-aspret-sarrat']",1646,177,34.6 km solo
+race/tour-de-france/2021,Tour de France,17,race/tour-de-france/2021/stage-17,2021-07-14,178.4,4375,"['location/col-de-peyresourde', 'location/col-de-val-louron-azet', 'location/col-du-portet']",1646,450,Sprint of small group
+race/tour-de-france/2021,Tour de France,18,race/tour-de-france/2021/stage-18,2021-07-15,129.7,3561,"['location/cote-de-notre-dame-de-pietat', 'location/cote-de-loucrup', 'location/col-du-tourmalet', 'location/luz-ardiden']",1646,367,0.6 km solo
+race/tour-de-france/2021,Tour de France,19,race/tour-de-france/2021/stage-19,2021-07-16,207.0,1181,['location/cote-de-bareille'],1646,16,26 km solo
+race/tour-de-france/2021,Tour de France,20,race/tour-de-france/2021/stage-20,2021-07-17,30.8,246,[],1646,8,Time Trial
+race/tour-de-france/2021,Tour de France,21,race/tour-de-france/2021/stage-21,2021-07-18,108.4,699,['location/cote-des-gres'],1646,14,Sprint of large group
+race/tour-de-france/2022,Tour de France,1,race/tour-de-france/2022/stage-1,2022-07-01,13.2,21,[],1551,0,Time Trial
+race/tour-de-france/2022,Tour de France,2,race/tour-de-france/2022/stage-2,2022-07-02,202.2,1149,"['location/cote-d-asnaes-indelukke', 'location/cote-d-hove-straede', 'location/cote-de-karup-strandbakke']",1551,11,Sprint of large group
+race/tour-de-france/2022,Tour de France,3,race/tour-de-france/2022/stage-3,2022-07-03,182.0,1280,"['location/cote-de-koldingvej', 'location/cote-de-hejlsminde-strand', 'location/cote-de-genner-strand']",1551,16,Sprint of large group
+race/tour-de-france/2022,Tour de France,4,race/tour-de-france/2022/stage-4,2022-07-05,171.5,1785,"['location/cote-de-cassel', 'location/cote-de-remilly-wirquin', 'location/cote-de-nielles-les-blequin', 'location/cote-de-harlettes', 'location/cote-du-ventus', 'location/cote-du-cap-blanc-nez']",1551,63,11.6 km solo
+race/tour-de-france/2022,Tour de France,5,race/tour-de-france/2022/stage-5,2022-07-06,157.0,601,[],1551,1,Sprint of small group
+race/tour-de-france/2022,Tour de France,6,race/tour-de-france/2022/stage-6,2022-07-07,219.9,2477,"['location/cote-des-mazures', 'location/cote-de-montigny-sur-chiers', 'location/cote-de-pulventeux']",1551,85,Sprint of small group
+race/tour-de-france/2022,Tour de France,7,race/tour-de-france/2022/stage-7,2022-07-08,176.3,2526,"['location/col-de-grosse-pierre', 'location/col-des-croix', 'location/la-planche-des-belles-filles']",1551,192,Sprint à deux
+race/tour-de-france/2022,Tour de France,8,race/tour-de-france/2022/stage-8,2022-07-09,186.3,2556,"['location/cote-du-marechet', 'location/col-des-rousses', 'location/col-du-petra-felix', 'location/cote-du-stade-olympique-lausanne']",1551,87,Sprint of small group
+race/tour-de-france/2022,Tour de France,9,race/tour-de-france/2022/stage-9,2022-07-10,192.9,3743,"['location/cote-de-bellevue-chexbres', 'location/col-des-mosses', 'location/col-de-la-croix3', 'location/pas-de-morgins']",1551,223,60.5 km solo
+race/tour-de-france/2022,Tour de France,10,race/tour-de-france/2022/stage-10,2022-07-12,148.1,2733,"['location/cote-de-chevenoz', 'location/col-de-jambaz', 'location/cote-de-chatillon-sur-cluses', 'location/montee-de-l-altiport-de-megeve']",1551,143,Sprint of small group
+race/tour-de-france/2022,Tour de France,11,race/tour-de-france/2022/stage-11,2022-07-13,151.7,4070,"['location/lacets-de-montvernier', 'location/col-du-telegraphe', 'location/col-du-galibier', 'location/col-de-granon']",1551,400,3.9 km solo
+race/tour-de-france/2022,Tour de France,12,race/tour-de-france/2022/stage-12,2022-07-14,165.1,4660,"['location/col-du-galibier', 'location/col-de-la-croix-de-fer', 'location/l-alpe-d-huez']",1551,389,11 km solo
+race/tour-de-france/2022,Tour de France,13,race/tour-de-france/2022/stage-13,2022-07-15,192.6,2109,"['location/cote-de-brie', 'location/col-de-parmenie', 'location/cote-de-saint-romain-en-gal']",1551,78,Sprint of small group
+race/tour-de-france/2022,Tour de France,14,race/tour-de-france/2022/stage-14,2022-07-16,192.5,3441,"['location/cote-de-saint-just-malmont', 'location/cote-de-chataignier', 'location/cote-de-grandrieu', 'location/cote-de-la-fage', 'location/cote-de-la-croix-neuve']",1551,170,1.9 km solo
+race/tour-de-france/2022,Tour de France,15,race/tour-de-france/2022/stage-15,2022-07-17,202.5,2416,"['location/cote-d-ambialet', 'location/cote-des-cammazes']",1551,64,Sprint of large group
+race/tour-de-france/2022,Tour de France,16,race/tour-de-france/2022/stage-16,2022-07-19,178.5,3418,"['location/cote-de-saint-hilaire-aude', 'location/col-de-l-espinas', 'location/port-de-lers', 'location/mur-de-peguere']",1551,204,39 km solo
+race/tour-de-france/2022,Tour de France,17,race/tour-de-france/2022/stage-17,2022-07-20,129.7,3364,"['location/col-d-aspin', 'location/hourquette-d-ancizan', 'location/col-de-val-louron-azet', 'location/montee-de-peyragudes']",1551,324,Sprint à deux
+race/tour-de-france/2022,Tour de France,18,race/tour-de-france/2022/stage-18,2022-07-21,143.2,4036,"['location/col-d-aubisque', 'location/col-de-spandelles', 'location/hautacam']",1551,408,3.6 km solo
+race/tour-de-france/2022,Tour de France,19,race/tour-de-france/2022/stage-19,2022-07-22,188.3,1316,"['location/cote-de-la-cite-medievale-de-lauzerte', 'location/cote-de-saint-daunes']",1551,35,0.4 km solo
+race/tour-de-france/2022,Tour de France,20,race/tour-de-france/2022/stage-20,2022-07-23,40.7,434,[],1551,39,Time Trial
+race/tour-de-france/2022,Tour de France,21,race/tour-de-france/2022/stage-21,2022-07-24,115.6,748,['location/cote-du-pave-des-gardes'],1551,13,Sprint of large group
+race/tour-de-france/2023,Tour de France,1,race/tour-de-france/2023/stage-1,2023-07-01,182.0,3221,"['location/cote-de-laukiz', 'location/alto-de-san-juan-de-gaztelugatxe', 'location/alto-de-morga', 'location/alto-el-vivero', 'location/alto-pike']",1584,166,0.35 km solo
+race/tour-de-france/2023,Tour de France,2,race/tour-de-france/2023/stage-2,2023-07-02,208.9,2949,"['location/puerto-de-udana', 'location/alto-de-aztiria', 'location/alkiza', 'location/gurutze', 'location/alto-de-jaizkibel']",1584,141,0.95 km solo
+race/tour-de-france/2023,Tour de France,3,race/tour-de-france/2023/stage-3,2023-07-03,193.5,2667,"['location/trabakua', 'location/milloi', 'location/alto-de-itziar', 'location/alto-orioko-benta']",1584,68,Sprint of large group
+race/tour-de-france/2023,Tour de France,4,race/tour-de-france/2023/stage-4,2023-07-04,181.8,1427,['location/cote-de-demu'],1584,20,Sprint of large group
+race/tour-de-france/2023,Tour de France,5,race/tour-de-france/2023/stage-5,2023-07-05,162.7,3652,"['location/col-de-soudet', 'location/col-d-ichere', 'location/col-du-marie-blanque']",1584,239,20.2 km solo
+race/tour-de-france/2023,Tour de France,6,race/tour-de-france/2023/stage-6,2023-07-06,144.9,3894,"['location/cote-de-capvern-les-bains', 'location/col-d-aspin', 'location/col-du-tourmalet', 'location/cauterets-cambasque']",1584,310,2.7 km solo
+race/tour-de-france/2023,Tour de France,7,race/tour-de-france/2023/stage-7,2023-07-07,169.9,808,['location/cote-de-beguey'],1584,7,Sprint of large group
+race/tour-de-france/2023,Tour de France,8,race/tour-de-france/2023/stage-8,2023-07-08,200.7,1996,"['location/cote-de-champs-romain', 'location/cote-de-masmont', 'location/cote-de-condat-sur-vienne']",1584,61,Sprint of large group
+race/tour-de-france/2023,Tour de France,9,race/tour-de-france/2023/stage-9,2023-07-09,182.4,3441,"['location/cote-de-felletin', 'location/cote-de-pontcharraud', 'location/cote-de-pontaumur', 'location/puy-de-dome']",1584,273,0.44 km solo
+race/tour-de-france/2023,Tour de France,10,race/tour-de-france/2023/stage-10,2023-07-11,167.2,3151,"['location/col-de-la-moreno', 'location/col-de-guery', 'location/col-de-la-croix-saint-robert', 'location/cote-de-saint-victor-la-riviere', 'location/cote-de-la-chapelle-marcousse']",1584,118,Sprint of small group
+race/tour-de-france/2023,Tour de France,11,race/tour-de-france/2023/stage-11,2023-07-12,179.3,1873,"['location/cote-de-chaptuzat-haut', 'location/cote-du-mercurol', 'location/cote-de-la-croix-blanche-puy-de-dome']",1584,34,Sprint of large group
+race/tour-de-france/2023,Tour de France,12,race/tour-de-france/2023/stage-12,2023-07-13,168.8,3120,"['location/cote-de-thizy-les-bourgs', 'location/col-des-ecorbans', 'location/col-de-la-casse-froide', 'location/col-de-la-croix-montmain', 'location/col-de-la-croix-rosier']",1584,147,30.8 km solo
+race/tour-de-france/2023,Tour de France,13,race/tour-de-france/2023/stage-13,2023-07-14,137.8,2413,['location/col-du-grand-colombier'],1584,260,11.7 km solo
+race/tour-de-france/2023,Tour de France,14,race/tour-de-france/2023/stage-14,2023-07-15,151.8,4281,"['location/col-de-saxel', 'location/col-de-cou', 'location/col-du-feu', 'location/col-de-la-ramaz', 'location/col-de-joux-plane']",1584,308,8 km solo
+race/tour-de-france/2023,Tour de France,15,race/tour-de-france/2023/stage-15,2023-07-16,179.0,4483,"['location/col-de-la-forclaz-montmin', 'location/col-de-la-croix-fry', 'location/col-des-aravis', 'location/cote-des-amerands', 'location/saint-gervais-mont-blanc']",1584,335,10.8 km solo
+race/tour-de-france/2023,Tour de France,16,race/tour-de-france/2023/stage-16,2023-07-18,22.4,636,['location/cote-de-domancy'],1584,109,Time Trial
+race/tour-de-france/2023,Tour de France,17,race/tour-de-france/2023/stage-17,2023-07-19,165.7,5399,"['location/col-des-saisies', 'location/cormet-de-roselend', 'location/cote-de-longefoy', 'location/col-de-la-loze']",1584,445,13.1 km solo
+race/tour-de-france/2023,Tour de France,18,race/tour-de-france/2023/stage-18,2023-07-20,184.9,1216,"['location/cote-de-chambery-le-haut', 'location/cote-de-boissieu']",1584,18,Sprint of small group
+race/tour-de-france/2023,Tour de France,19,race/tour-de-france/2023/stage-19,2023-07-21,172.8,1934,"['location/cote-du-bois-de-lionge', 'location/cote-d-ivory']",1584,50,Sprint of 3 riders
+race/tour-de-france/2023,Tour de France,20,race/tour-de-france/2023/stage-20,2023-07-22,133.5,3471,"['location/ballon-d-alsace', 'location/col-de-la-croix-des-moinats', 'location/col-de-grosse-pierre', 'location/col-de-la-schlucht', 'location/petit-ballon', 'location/col-du-platzerwasel']",1584,303,Sprint of 5 riders
+race/tour-de-france/2023,Tour de France,21,race/tour-de-france/2023/stage-21,2023-07-23,115.1,577,['location/cote-du-pave-des-gardes'],1584,14,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,1,race/giro-d-italia/2018/stage-1,2018-05-04,9.7,155,[],838,9,Time Trial
+race/giro-d-italia/2018,Giro d'Italia,2,race/giro-d-italia/2018/stage-2,2018-05-05,167.0,988,[],838,9,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,3,race/giro-d-italia/2018/stage-3,2018-05-06,229.0,1771,[],838,16,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,4,race/giro-d-italia/2018/stage-4,2018-05-08,202.0,3428,[],838,111,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,5,race/giro-d-italia/2018/stage-5,2018-05-09,153.0,2237,[],838,97,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,6,race/giro-d-italia/2018/stage-6,2018-05-10,164.0,3307,[],838,241,Sprint à deux
+race/giro-d-italia/2018,Giro d'Italia,7,race/giro-d-italia/2018/stage-7,2018-05-11,159.0,1023,[],838,29,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,8,race/giro-d-italia/2018/stage-8,2018-05-12,209.0,3248,[],838,171,2 km solo
+race/giro-d-italia/2018,Giro d'Italia,9,race/giro-d-italia/2018/stage-9,2018-05-13,225.0,4034,[],838,240,Sprint of small group
+race/giro-d-italia/2018,Giro d'Italia,10,race/giro-d-italia/2018/stage-10,2018-05-15,244.0,4133,[],838,118,Sprint à deux
+race/giro-d-italia/2018,Giro d'Italia,11,race/giro-d-italia/2018/stage-11,2018-05-16,156.0,2027,[],838,95,1.3 km solo
+race/giro-d-italia/2018,Giro d'Italia,12,race/giro-d-italia/2018/stage-12,2018-05-17,214.0,874,[],838,29,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,13,race/giro-d-italia/2018/stage-13,2018-05-18,180.0,429,[],838,10,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,14,race/giro-d-italia/2018/stage-14,2018-05-19,186.0,4477,[],838,473,4.2 km solo
+race/giro-d-italia/2018,Giro d'Italia,15,race/giro-d-italia/2018/stage-15,2018-05-20,176.0,4112,[],838,264,17 km solo
+race/giro-d-italia/2018,Giro d'Italia,16,race/giro-d-italia/2018/stage-16,2018-05-22,34.2,223,[],838,9,Time Trial
+race/giro-d-italia/2018,Giro d'Italia,17,race/giro-d-italia/2018/stage-17,2018-05-23,155.0,2040,[],838,55,Sprint of large group
+race/giro-d-italia/2018,Giro d'Italia,18,race/giro-d-italia/2018/stage-18,2018-05-24,196.0,2314,[],838,185,0.5 km solo
+race/giro-d-italia/2018,Giro d'Italia,19,race/giro-d-italia/2018/stage-19,2018-05-25,184.0,5216,[],838,313,80 km solo
+race/giro-d-italia/2018,Giro d'Italia,20,race/giro-d-italia/2018/stage-20,2018-05-26,214.0,4254,[],838,351,32 km solo
+race/giro-d-italia/2018,Giro d'Italia,21,race/giro-d-italia/2018/stage-21,2018-05-27,115.0,897,[],838,20,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,1,race/giro-d-italia/2020/stage-1,2020-10-03,15.1,74,[],765,6,Time Trial
+race/giro-d-italia/2020,Giro d'Italia,2,race/giro-d-italia/2020/stage-2,2020-10-04,149.0,2359,[],765,92,Sprint of small group
+race/giro-d-italia/2020,Giro d'Italia,3,race/giro-d-italia/2020/stage-3,2020-10-05,150.0,3516,[],765,293,14 km solo
+race/giro-d-italia/2020,Giro d'Italia,4,race/giro-d-italia/2020/stage-4,2020-10-06,140.0,1791,[],765,45,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,5,race/giro-d-italia/2020/stage-5,2020-10-07,225.0,,[],765,,17 km solo
+race/giro-d-italia/2020,Giro d'Italia,6,race/giro-d-italia/2020/stage-6,2020-10-08,188.0,2821,[],765,107,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,7,race/giro-d-italia/2020/stage-7,2020-10-09,143.0,450,[],765,5,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,8,race/giro-d-italia/2020/stage-8,2020-10-10,200.0,2197,[],765,116,18 km solo
+race/giro-d-italia/2020,Giro d'Italia,9,race/giro-d-italia/2020/stage-9,2020-10-11,208.0,4544,[],765,222,0.1 km solo
+race/giro-d-italia/2020,Giro d'Italia,10,race/giro-d-italia/2020/stage-10,2020-10-13,177.0,2057,[],765,134,12 km solo
+race/giro-d-italia/2020,Giro d'Italia,11,race/giro-d-italia/2020/stage-11,2020-10-14,182.0,1197,[],765,50,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,12,race/giro-d-italia/2020/stage-12,2020-10-15,204.0,3815,[],765,164,25 km solo
+race/giro-d-italia/2020,Giro d'Italia,13,race/giro-d-italia/2020/stage-13,2020-10-16,192.0,827,[],765,86,Sprint of large group
+race/giro-d-italia/2020,Giro d'Italia,14,race/giro-d-italia/2020/stage-14,2020-10-17,34.1,716,[],765,63,Time Trial
+race/giro-d-italia/2020,Giro d'Italia,15,race/giro-d-italia/2020/stage-15,2020-10-18,185.0,4515,[],765,347,0.2 km solo
+race/giro-d-italia/2020,Giro d'Italia,16,race/giro-d-italia/2020/stage-16,2020-10-20,229.0,4056,[],765,238,0.6 km solo
+race/giro-d-italia/2020,Giro d'Italia,17,race/giro-d-italia/2020/stage-17,2020-10-21,203.0,5650,[],765,316,8 km solo
+race/giro-d-italia/2020,Giro d'Italia,18,race/giro-d-italia/2020/stage-18,2020-10-22,207.0,5848,[],765,400,Sprint à deux
+race/giro-d-italia/2020,Giro d'Italia,19,race/giro-d-italia/2020/stage-19,2020-10-23,124.0,406,[],765,11,23 km solo
+race/giro-d-italia/2020,Giro d'Italia,20,race/giro-d-italia/2020/stage-20,2020-10-24,190.0,3716,[],765,262,Sprint à deux
+race/giro-d-italia/2020,Giro d'Italia,21,race/giro-d-italia/2020/stage-21,2020-10-25,15.7,3,[],765,0,Time Trial
+race/giro-d-italia/2021,Giro d'Italia,1,race/giro-d-italia/2021/stage-1,2021-05-08,8.6,48,[],885,1,Time Trial
+race/giro-d-italia/2021,Giro d'Italia,2,race/giro-d-italia/2021/stage-2,2021-05-09,179.0,707,['location/montechiaro-d-asti'],885,9,Sprint of large group
+race/giro-d-italia/2021,Giro d'Italia,3,race/giro-d-italia/2021/stage-3,2021-05-10,190.0,1870,"['location/piancanelli', 'location/castino', 'location/manera']",885,103,8.6 km solo
+race/giro-d-italia/2021,Giro d'Italia,4,race/giro-d-italia/2021/stage-4,2021-05-11,187.0,3138,"['location/castello-di-carpineti', 'location/montemolino', 'location/colle-passerino']",885,252,2.5 km solo
+race/giro-d-italia/2021,Giro d'Italia,5,race/giro-d-italia/2021/stage-5,2021-05-12,177.0,363,[],885,0,Sprint of large group
+race/giro-d-italia/2021,Giro d'Italia,6,race/giro-d-italia/2021/stage-6,2021-05-13,160.0,3595,"['location/forca-di-gualdo', 'location/forca-di-presta', 'location/san-giacomo']",885,221,3.3 km solo
+race/giro-d-italia/2021,Giro d'Italia,7,race/giro-d-italia/2021/stage-7,2021-05-14,181.0,1725,['location/chieti'],885,37,Sprint of large group
+race/giro-d-italia/2021,Giro d'Italia,8,race/giro-d-italia/2021/stage-8,2021-05-15,170.0,3085,"['location/bocca-della-selva', 'location/guardia-sanframondi']",885,133,2.2 km solo
+race/giro-d-italia/2021,Giro d'Italia,9,race/giro-d-italia/2021/stage-9,2021-05-16,158.0,3503,"['location/passo-godi', 'location/forca-caruso', 'location/ovindoli', 'location/campo-felice']",885,196,0.2 km solo
+race/giro-d-italia/2021,Giro d'Italia,10,race/giro-d-italia/2021/stage-10,2021-05-17,139.0,1460,['location/valico-della-somma'],885,60,Sprint of large group
+race/giro-d-italia/2021,Giro d'Italia,11,race/giro-d-italia/2021/stage-11,2021-05-19,162.0,2364,['location/passo-del-lume-spento'],885,174,Sprint à deux
+race/giro-d-italia/2021,Giro d'Italia,12,race/giro-d-italia/2021/stage-12,2021-05-20,212.0,4433,"['location/monte-morello', 'location/passo-della-consuma', 'location/passo-della-calla', 'location/passo-del-carnaio']",885,223,Sprint à deux
+race/giro-d-italia/2021,Giro d'Italia,13,race/giro-d-italia/2021/stage-13,2021-05-21,198.0,199,[],885,0,Sprint of large group
+race/giro-d-italia/2021,Giro d'Italia,14,race/giro-d-italia/2021/stage-14,2021-05-22,205.0,3580,"['location/castello-di-caneva', 'location/forcella-di-monte-rest', 'location/monte-zoncolan']",885,341,2.3 km solo
+race/giro-d-italia/2021,Giro d'Italia,15,race/giro-d-italia/2021/stage-15,2021-05-23,147.0,1682,['location/gornje-cerovo'],885,106,Sprint à deux
+race/giro-d-italia/2021,Giro d'Italia,16,race/giro-d-italia/2021/stage-16,2021-05-24,153.0,3942,"['location/la-crosetta', 'location/passo-giau']",885,295,21 km solo
+race/giro-d-italia/2021,Giro d'Italia,17,race/giro-d-italia/2021/stage-17,2021-05-26,193.0,3703,"['location/sveseri', 'location/passo-di-san-valentino', 'location/sega-di-ala']",885,408,10 km solo
+race/giro-d-italia/2021,Giro d'Italia,18,race/giro-d-italia/2021/stage-18,2021-05-27,231.0,1398,['location/castana'],885,74,6.5 km solo
+race/giro-d-italia/2021,Giro d'Italia,19,race/giro-d-italia/2021/stage-19,2021-05-28,166.0,2811,"['location/alpe-agogna', 'location/passo-della-colma', 'location/alpe-di-mera']",885,292,5.5 km solo
+race/giro-d-italia/2021,Giro d'Italia,20,race/giro-d-italia/2021/stage-20,2021-05-29,164.0,3867,"['location/passo-san-bernardino', 'location/passo-dello-spluga', 'location/alpe-motta']",885,305,2 km solo
+race/giro-d-italia/2021,Giro d'Italia,21,race/giro-d-italia/2021/stage-21,2021-05-30,30.3,24,[],885,0,Time Trial
+race/giro-d-italia/2022,Giro d'Italia,1,race/giro-d-italia/2022/stage-1,2022-05-06,195.0,1390,['location/visegrad'],817,51,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,2,race/giro-d-italia/2022/stage-2,2022-05-07,9.2,81,['location/budapest'],817,8,Time Trial
+race/giro-d-italia/2022,Giro d'Italia,3,race/giro-d-italia/2022/stage-3,2022-05-08,201.0,1150,['location/tihany'],817,7,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,4,race/giro-d-italia/2022/stage-4,2022-05-10,172.0,3626,['location/etna-south'],817,251,Sprint à deux
+race/giro-d-italia/2022,Giro d'Italia,5,race/giro-d-italia/2022/stage-5,2022-05-11,174.0,1968,['location/portella-mandrazzi'],817,31,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,6,race/giro-d-italia/2022/stage-6,2022-05-12,192.0,1498,['location/aeroporto-l.-razza'],817,49,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,7,race/giro-d-italia/2022/stage-7,2022-05-13,196.0,4730,"['location/passo-colla', 'location/monte-sirino', 'location/montagna-grande-di-viggiano', 'location/la-sellata']",817,246,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,8,race/giro-d-italia/2022/stage-8,2022-05-14,153.0,2243,['location/monte-di-procida'],817,123,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,9,race/giro-d-italia/2022/stage-9,2022-05-15,191.0,5080,"['location/valico-del-macerone', 'location/valico-di-rionero-sannitico', 'location/roccaraso', 'location/passo-lanciano', 'location/blockhaus']",817,458,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,10,race/giro-d-italia/2022/stage-10,2022-05-17,196.0,1764,"['location/crocette-di-montecosaro', 'location/recanati', 'location/monsano']",817,86,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,11,race/giro-d-italia/2022/stage-11,2022-05-18,203.0,369,[],817,0,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,12,race/giro-d-italia/2022/stage-12,2022-05-19,204.0,2867,"['location/passo-del-bocco', 'location/la-colletta', 'location/valico-di-trensasco']",817,112,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,13,race/giro-d-italia/2022/stage-13,2022-05-20,150.0,1817,['location/colle-di-nava'],817,51,Sprint of large group
+race/giro-d-italia/2022,Giro d'Italia,14,race/giro-d-italia/2022/stage-14,2022-05-21,147.0,3167,"['location/il-pilonetto', 'location/colle-di-superga', 'location/colle-della-maddalena']",817,247,4.6 km solo
+race/giro-d-italia/2022,Giro d'Italia,15,race/giro-d-italia/2022/stage-15,2022-05-22,177.0,4019,"['location/pila-les-fleurs', 'location/verrogne', 'location/cogne']",817,301,18.8 km solo
+race/giro-d-italia/2022,Giro d'Italia,16,race/giro-d-italia/2022/stage-16,2022-05-24,202.0,5268,"['location/passo-di-croce-domini', 'location/passo-del-mortirolo', 'location/valico-di-santa-cristina']",817,376,7.9 km solo
+race/giro-d-italia/2022,Giro d'Italia,17,race/giro-d-italia/2022/stage-17,2022-05-25,168.0,3950,"['location/giovo', 'location/passo-del-vetriolo', 'location/monterovere']",817,347,8.2 km solo
+race/giro-d-italia/2022,Giro d'Italia,18,race/giro-d-italia/2022/stage-18,2022-05-26,156.0,1219,"['location/le-scale-di-primolano', 'location/muro-di-ca-del-poggio']",817,34,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,19,race/giro-d-italia/2022/stage-19,2022-05-27,178.0,3489,"['location/villanova-grotte', 'location/passo-di-tanamea', 'location/kolovrat', 'location/santuario-di-castelmonte']",817,262,Sprint of small group
+race/giro-d-italia/2022,Giro d'Italia,20,race/giro-d-italia/2022/stage-20,2022-05-28,168.0,4718,"['location/passo-san-pellegrino', 'location/passo-pordoi', 'location/passo-fedaia']",817,392,53.7 km solo
+race/giro-d-italia/2022,Giro d'Italia,21,race/giro-d-italia/2022/stage-21,2022-05-29,17.4,317,['location/torricella-massimiliana'],817,30,Time Trial
+race/giro-d-italia/2023,Giro d'Italia,1,race/giro-d-italia/2023/stage-1,2023-05-06,19.6,171,['location/ortona'],835,11,Time Trial
+race/giro-d-italia/2023,Giro d'Italia,2,race/giro-d-italia/2023/stage-2,2023-05-07,202.0,1831,"['location/silvi-paese', 'location/ripa-teatina']",835,51,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,3,race/giro-d-italia/2023/stage-3,2023-05-08,213.0,1777,"['location/valico-dei-laghi-di-monticchio', 'location/valico-la-croce']",835,92,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,4,race/giro-d-italia/2023/stage-4,2023-05-09,175.0,3667,"['location/passo-delle-crocelle', 'location/valico-di-monte-carruozzo', 'location/colle-molella']",835,207,Sprint à deux
+race/giro-d-italia/2023,Giro d'Italia,5,race/giro-d-italia/2023/stage-5,2023-05-10,171.0,2529,"['location/passo-serra', 'location/oliveto-citra']",835,77,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,6,race/giro-d-italia/2023/stage-6,2023-05-11,162.0,2581,"['location/valico-di-chiunzi', 'location/picco-sant-angelo']",835,92,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,7,race/giro-d-italia/2023/stage-7,2023-05-12,218.0,4143,"['location/roccaraso', 'location/calascio', 'location/gran-sasso-d-italia']",835,253,0.17 km solo
+race/giro-d-italia/2023,Giro d'Italia,8,race/giro-d-italia/2023/stage-8,2023-05-13,207.0,2790,"['location/i-cappuccini-fossombrone', 'location/monte-delle-cesane']",835,180,50.2 km solo
+race/giro-d-italia/2023,Giro d'Italia,9,race/giro-d-italia/2023/stage-9,2023-05-14,35.0,84,[],835,0,Time Trial
+race/giro-d-italia/2023,Giro d'Italia,10,race/giro-d-italia/2023/stage-10,2023-05-16,196.0,3020,"['location/passo-delle-radici', 'location/monteperpoli']",835,76,Sprint of 3 riders
+race/giro-d-italia/2023,Giro d'Italia,11,race/giro-d-italia/2023/stage-11,2023-05-17,219.0,2430,"['location/passo-del-bracco', 'location/colla-di-boasi', 'location/passo-della-castagnola']",835,60,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,12,race/giro-d-italia/2023/stage-12,2023-05-18,185.0,2348,"['location/pedaggera', 'location/col-de-braida']",835,112,Sprint of 3 riders
+race/giro-d-italia/2023,Giro d'Italia,13,race/giro-d-italia/2023/stage-13,2023-05-19,74.6,2456,"['location/croix-de-coeur', 'location/crans-montana']",835,283,0.2 km solo
+race/giro-d-italia/2023,Giro d'Italia,14,race/giro-d-italia/2023/stage-14,2023-05-20,194.0,2336,['location/passo-del-sempione'],835,68,Sprint of 6 riders
+race/giro-d-italia/2023,Giro d'Italia,15,race/giro-d-italia/2023/stage-15,2023-05-21,195.0,4040,"['location/passo-di-valcava', 'location/selvino', 'location/miragolo-san-salvatore', 'location/roncola-alta']",835,202,Sprint of 3 riders
+race/giro-d-italia/2023,Giro d'Italia,16,race/giro-d-italia/2023/stage-16,2023-05-23,203.0,5852,"['location/santa-barbara3', 'location/passo-bordala', 'location/matassone', 'location/serrada-trento', 'location/monte-bondone']",835,456,Sprint à deux
+race/giro-d-italia/2023,Giro d'Italia,17,race/giro-d-italia/2023/stage-17,2023-05-24,197.0,523,[],835,5,Sprint of large group
+race/giro-d-italia/2023,Giro d'Italia,18,race/giro-d-italia/2023/stage-18,2023-05-25,161.0,4153,"['location/la-crosetta', 'location/pieve-d-alpago', 'location/passo-cibiana', 'location/coi', 'location/palafavera']",835,362,Sprint à deux
+race/giro-d-italia/2023,Giro d'Italia,19,race/giro-d-italia/2023/stage-19,2023-05-26,183.0,5423,"['location/passo-campolongo', 'location/passo-di-valparola', 'location/passo-giau', 'location/passo-tre-croci', 'location/tre-cime-di-lavaredo']",835,478,1.5 km solo
+race/giro-d-italia/2023,Giro d'Italia,20,race/giro-d-italia/2023/stage-20,2023-05-27,18.6,1070,['location/monte-lussari'],835,197,Time Trial
+race/giro-d-italia/2023,Giro d'Italia,21,race/giro-d-italia/2023/stage-21,2023-05-28,126.0,692,[],835,21,Sprint of large group
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,1,race/vuelta-a-espana/2018/stage-1,2018-08-25,8.0,66,[],1036,6,Time Trial
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,2,race/vuelta-a-espana/2018/stage-2,2018-08-26,163.5,2826,[],1036,115,Sprint à deux
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,3,race/vuelta-a-espana/2018/stage-3,2018-08-27,178.2,3160,[],1036,114,Sprint of large group
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,4,race/vuelta-a-espana/2018/stage-4,2018-08-28,161.4,3300,[],1036,193,Sprint à deux
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,5,race/vuelta-a-espana/2018/stage-5,2018-08-29,188.7,3178,[],1036,116,Sprint of 94 riders
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,6,race/vuelta-a-espana/2018/stage-6,2018-08-30,155.7,1399,[],1036,41,Sprint of large group
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,7,race/vuelta-a-espana/2018/stage-7,2018-08-31,185.7,2535,[],1036,117,2.2 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,8,race/vuelta-a-espana/2018/stage-8,2018-09-01,195.1,2112,[],1036,48,Sprint of large group
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,9,race/vuelta-a-espana/2018/stage-9,2018-09-02,200.8,4399,[],1036,276,18 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,10,race/vuelta-a-espana/2018/stage-10,2018-09-04,177.0,1306,[],1036,27,Sprint of large group
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,11,race/vuelta-a-espana/2018/stage-11,2018-09-05,207.8,3755,[],1036,174,4.3 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,12,race/vuelta-a-espana/2018/stage-12,2018-09-06,181.1,3021,[],1036,126,Sprint of 71 riders
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,13,race/vuelta-a-espana/2018/stage-13,2018-09-07,174.8,3334,[],1036,194,1 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,14,race/vuelta-a-espana/2018/stage-14,2018-09-08,171.0,3314,[],1036,286,0.6 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,15,race/vuelta-a-espana/2018/stage-15,2018-09-09,178.2,4586,[],1036,390,6 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,16,race/vuelta-a-espana/2018/stage-16,2018-09-11,32.0,501,[],1036,29,Time Trial
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,17,race/vuelta-a-espana/2018/stage-17,2018-09-12,157.0,3574,[],1036,298,0.5 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,18,race/vuelta-a-espana/2018/stage-18,2018-09-13,186.1,1040,[],1036,12,Sprint à deux
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,19,race/vuelta-a-espana/2018/stage-19,2018-09-14,154.4,3183,[],1036,239,0.2 km solo
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,20,race/vuelta-a-espana/2018/stage-20,2018-09-15,97.3,3429,[],1036,341,Sprint à deux
+race/vuelta-a-espana/2018,La Vuelta ciclista a España,21,race/vuelta-a-espana/2018/stage-21,2018-09-16,112.3,603,[],1036,1,Sprint of large group
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,1,race/vuelta-a-espana/2019/stage-1,2019-08-24,13.4,107,[],798,2,Time Trial
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,2,race/vuelta-a-espana/2019/stage-2,2019-08-25,199.6,3238,[],798,113,3 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,3,race/vuelta-a-espana/2019/stage-3,2019-08-26,188.0,1730,[],798,65,Sprint of large group
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,4,race/vuelta-a-espana/2019/stage-4,2019-08-27,175.5,1233,[],798,27,Sprint of large group
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,5,race/vuelta-a-espana/2019/stage-5,2019-08-28,170.7,3764,[],798,270,0.5 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,6,race/vuelta-a-espana/2019/stage-6,2019-08-29,198.9,3294,[],798,151,0.4 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,7,race/vuelta-a-espana/2019/stage-7,2019-08-30,183.2,2842,[],798,242,Sprint à deux
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,8,race/vuelta-a-espana/2019/stage-8,2019-08-31,166.9,2291,[],798,95,Sprint of 13 riders
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,9,race/vuelta-a-espana/2019/stage-9,2019-09-01,94.4,3300,[],798,394,3 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,10,race/vuelta-a-espana/2019/stage-10,2019-09-03,36.2,525,[],798,49,Time Trial
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,11,race/vuelta-a-espana/2019/stage-11,2019-09-04,180.0,3168,[],798,137,25 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,12,race/vuelta-a-espana/2019/stage-12,2019-09-05,171.4,2072,[],798,160,9 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,13,race/vuelta-a-espana/2019/stage-13,2019-09-06,166.4,4179,[],798,287,Sprint à deux
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,14,race/vuelta-a-espana/2019/stage-14,2019-09-07,188.0,2432,[],798,63,Sprint of large group
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,15,race/vuelta-a-espana/2019/stage-15,2019-09-08,154.4,4114,[],798,368,6.6 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,16,race/vuelta-a-espana/2019/stage-16,2019-09-09,144.4,4114,[],798,326,4 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,17,race/vuelta-a-espana/2019/stage-17,2019-09-11,219.6,2395,[],798,57,Sprint of small group
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,18,race/vuelta-a-espana/2019/stage-18,2019-09-12,178.2,3689,[],798,162,53 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,19,race/vuelta-a-espana/2019/stage-19,2019-09-13,165.2,1771,[],798,48,24 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,20,race/vuelta-a-espana/2019/stage-20,2019-09-14,190.4,4559,[],798,242,39 km solo
+race/vuelta-a-espana/2019,La Vuelta ciclista a España,21,race/vuelta-a-espana/2019/stage-21,2019-09-15,106.6,763,[],798,8,Sprint of large group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,1,race/vuelta-a-espana/2020/stage-1,2020-10-20,173.0,2975,[],692,209,1 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,2,race/vuelta-a-espana/2020/stage-2,2020-10-21,151.6,2435,[],692,171,14 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,3,race/vuelta-a-espana/2020/stage-3,2020-10-22,166.1,2779,[],692,117,Sprint of small group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,4,race/vuelta-a-espana/2020/stage-4,2020-10-23,191.7,1160,[],692,15,Sprint of large group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,5,race/vuelta-a-espana/2020/stage-5,2020-10-24,184.4,3407,[],692,185,Sprint à deux
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,6,race/vuelta-a-espana/2020/stage-6,2020-10-25,146.4,3020,[],692,185,3 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,7,race/vuelta-a-espana/2020/stage-7,2020-10-27,159.7,2657,[],692,142,1 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,8,race/vuelta-a-espana/2020/stage-8,2020-10-28,164.0,3021,[],692,249,0.8 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,9,race/vuelta-a-espana/2020/stage-9,2020-10-29,157.7,1163,[],692,18,Sprint of large group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,10,race/vuelta-a-espana/2020/stage-10,2020-10-30,185.0,2302,[],692,84,Sprint of small group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,11,race/vuelta-a-espana/2020/stage-11,2020-10-31,170.0,5098,[],692,435,0.5 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,12,race/vuelta-a-espana/2020/stage-12,2020-11-01,109.4,3125,[],692,452,1 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,13,race/vuelta-a-espana/2020/stage-13,2020-11-03,33.7,536,[],692,65,Time Trial
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,14,race/vuelta-a-espana/2020/stage-14,2020-11-04,204.7,3057,[],692,100,0.3 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,15,race/vuelta-a-espana/2020/stage-15,2020-11-05,230.8,4448,[],692,158,Sprint of large group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,16,race/vuelta-a-espana/2020/stage-16,2020-11-06,162.0,2762,[],692,122,Sprint of large group
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,17,race/vuelta-a-espana/2020/stage-17,2020-11-07,178.2,4365,[],692,316,4 km solo
+race/vuelta-a-espana/2020,La Vuelta ciclista a España,18,race/vuelta-a-espana/2020/stage-18,2020-11-08,139.6,1492,[],692,30,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,1,race/vuelta-a-espana/2021/stage-1,2021-08-14,7.1,87,['location/mirador-del-castillo'],1023,9,Time Trial
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,2,race/vuelta-a-espana/2021/stage-2,2021-08-15,166.7,1049,[],1023,10,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,3,race/vuelta-a-espana/2021/stage-3,2021-08-16,202.8,2787,"['location/el-manquillo', 'location/alto-de-bocos', 'location/picon-blanco']",1023,232,2.8 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,4,race/vuelta-a-espana/2021/stage-4,2021-08-17,163.9,1534,[],1023,23,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,5,race/vuelta-a-espana/2021/stage-5,2021-08-18,184.4,640,[],1023,2,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,6,race/vuelta-a-espana/2021/stage-6,2021-08-19,158.3,902,['location/alto-de-la-montana-de-cullera'],1023,50,0.77 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,7,race/vuelta-a-espana/2021/stage-7,2021-08-20,152.0,3744,"['location/puerto-la-llacuna', 'location/puerto-de-benilloba', 'location/puerto-de-tudons', 'location/puerto-el-collao', 'location/puerto-de-tibi', 'location/balcon-de-alicante']",1023,272,3.2 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,8,race/vuelta-a-espana/2021/stage-8,2021-08-21,173.7,923,[],1023,23,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,9,race/vuelta-a-espana/2021/stage-9,2021-08-22,188.0,4725,"['location/alto-de-cuatro-vientos', 'location/alto-collado-venta-luisa', 'location/alto-de-castro-de-filabres', 'location/alto-de-velefique']",1023,348,71.1 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,10,race/vuelta-a-espana/2021/stage-10,2021-08-24,189.0,2390,['location/puerto-de-almachar'],1023,134,19 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,11,race/vuelta-a-espana/2021/stage-11,2021-08-25,133.6,2647,['location/puerto-de-locubin'],1023,155,Sprint à deux
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,12,race/vuelta-a-espana/2021/stage-12,2021-08-26,175.0,2018,"['location/alto-de-san-jeronimo', 'location/alto-del-catorce-por-ciento']",1023,107,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,13,race/vuelta-a-espana/2021/stage-13,2021-08-27,203.7,1645,[],1023,22,Sprint of small group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,14,race/vuelta-a-espana/2021/stage-14,2021-08-28,165.7,3448,"['location/puerto-berzocana', 'location/puerto-collado-de-ballesteros', 'location/pico-villuercas']",1023,288,6 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,15,race/vuelta-a-espana/2021/stage-15,2021-08-29,197.5,3860,"['location/alto-de-la-centenera', 'location/puerto-de-pedro-bernardo', 'location/puerto-de-mijares', 'location/puerto-san-juan-de-nava']",1023,167,87.3 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,16,race/vuelta-a-espana/2021/stage-16,2021-08-31,180.0,2279,['location/alto-de-hijas'],1023,81,Sprint of large group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,17,race/vuelta-a-espana/2021/stage-17,2021-09-01,185.8,4519,"['location/alto-de-ortiguero', 'location/la-collada-llomena', 'location/lagos-de-covadonga']",1023,366,7.5 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,18,race/vuelta-a-espana/2021/stage-18,2021-09-02,162.6,4951,"['location/puerto-de-san-lorenzo', 'location/alto-de-la-cobertoria', 'location/alto-del-cordal', 'location/altu-d-el-gamoniteiru']",1023,509,2.7 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,19,race/vuelta-a-espana/2021/stage-19,2021-09-03,191.2,3540,"['location/alto-da-sela-d-entorcisa', 'location/alto-da-garganta', 'location/alto-de-barbeitos']",1023,98,Sprint of small group
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,20,race/vuelta-a-espana/2021/stage-20,2021-09-04,202.2,4214,"['location/alto-de-vilachan', 'location/alto-de-mabia', 'location/alto-de-mougas', 'location/alto-de-prado', 'location/castro-de-herville']",1023,251,1.7 km solo
+race/vuelta-a-espana/2021,La Vuelta ciclista a España,21,race/vuelta-a-espana/2021/stage-21,2021-09-05,33.8,641,[],1023,56,Time Trial
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,1,race/vuelta-a-espana/2022/stage-1,2022-08-19,23.3,31,[],968,0,Time Trial
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,2,race/vuelta-a-espana/2022/stage-2,2022-08-20,175.1,518,['location/amerongse-berg'],968,10,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,3,race/vuelta-a-espana/2022/stage-3,2022-08-21,193.2,255,['location/rijzendeweg'],968,0,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,4,race/vuelta-a-espana/2022/stage-4,2022-08-23,152.5,2319,"['location/alto-de-opakua', 'location/alto-de-la-herrera']",968,133,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,5,race/vuelta-a-espana/2022/stage-5,2022-08-24,187.2,2978,"['location/alto-de-gontzegaraine', 'location/balcon-de-bizkaia', 'location/alto-de-morga', 'location/alto-el-vivero']",968,162,15.4 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,6,race/vuelta-a-espana/2022/stage-6,2022-08-25,181.2,4120,"['location/puerto-de-alisas', 'location/collada-de-brenes', 'location/pico-jano']",968,294,6.5 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,7,race/vuelta-a-espana/2022/stage-7,2022-08-26,190.0,3359,['location/puerto-de-san-glorio'],968,112,Sprint of small group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,8,race/vuelta-a-espana/2022/stage-8,2022-08-27,153.4,3741,"['location/alto-de-la-colladona', 'location/alto-de-la-mozqueta', 'location/alto-de-santo-emiliano', 'location/alto-de-tenebredo', 'location/puerto-de-perlavia', 'location/collau-fancuaya']",968,335,5.9 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,9,race/vuelta-a-espana/2022/stage-9,2022-08-28,171.4,3675,"['location/alto-del-torno', 'location/mirador-del-fito', 'location/alto-de-la-llama', 'location/alto-de-la-campa', 'location/alto-les-praeres']",968,242,2.5 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,10,race/vuelta-a-espana/2022/stage-10,2022-08-30,30.9,179,[],968,4,Time Trial
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,11,race/vuelta-a-espana/2022/stage-11,2022-08-31,191.2,1592,[],968,38,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,12,race/vuelta-a-espana/2022/stage-12,2022-09-01,192.7,3238,['location/alto-de-penas-blancas'],968,273,1.9 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,13,race/vuelta-a-espana/2022/stage-13,2022-09-02,168.4,1766,[],968,54,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,14,race/vuelta-a-espana/2022/stage-14,2022-09-03,160.3,3312,"['location/puerto-de-siete-pilillas', 'location/puerto-de-los-villares', 'location/sierra-de-la-pandera']",968,278,3.3 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,15,race/vuelta-a-espana/2022/stage-15,2022-09-04,152.6,4033,"['location/puerto-del-castillo', 'location/alto-del-purche', 'location/sierra-nevada']",968,407,6.5 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,16,race/vuelta-a-espana/2022/stage-16,2022-09-06,189.4,1076,[],968,28,Sprint of small group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,17,race/vuelta-a-espana/2022/stage-17,2022-09-07,162.3,2755,['location/monasterio-de-tentudia'],968,161,Sprint of small group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,18,race/vuelta-a-espana/2022/stage-18,2022-09-08,192.0,3680,"['location/alto-de-la-desespera', 'location/alto-del-piornal']",968,214,Sprint of small group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,19,race/vuelta-a-espana/2022/stage-19,2022-09-09,138.3,2278,['location/puerto-del-pielago'],968,101,Sprint of large group
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,20,race/vuelta-a-espana/2022/stage-20,2022-09-10,181.0,3977,"['location/puerto-de-navacerrada', 'location/puerto-de-navafria', 'location/puerto-de-canencia', 'location/puerto-de-la-morcuera', 'location/puerto-de-los-cotos']",968,216,7.2 km solo
+race/vuelta-a-espana/2022,La Vuelta ciclista a España,21,race/vuelta-a-espana/2022/stage-21,2022-09-11,96.7,773,[],968,10,Sprint of large group
+race/paris-nice/2018,Paris-Nice,1,race/paris-nice/2018/stage-1,2018-03-04,135.0,1224,"['location/cote-de-17-tournants', 'location/cote-de-meridon', 'location/cote-de-meudon']",936,46,Sprint of large group
+race/paris-nice/2018,Paris-Nice,2,race/paris-nice/2018/stage-2,2018-03-05,187.0,640,[],936,4,Sprint of large group
+race/paris-nice/2018,Paris-Nice,3,race/paris-nice/2018/stage-3,2018-03-06,210.0,2380,"['location/cote-de-la-bosse', 'location/cotes-des-boulards', 'location/cote-de-charbinnieres']",936,79,Sprint of 70 riders
+race/paris-nice/2018,Paris-Nice,4,race/paris-nice/2018/stage-4,2018-03-07,18.4,383,[],936,30,Time Trial
+race/paris-nice/2018,Paris-Nice,5,race/paris-nice/2018/stage-5,2018-03-08,163.5,2611,"['location/col-du-pointu', 'location/col-de-lagarde-d-apt', 'location/col-du-negron', 'location/cote-de-la-marquise']",936,94,Sprint à deux
+race/paris-nice/2018,Paris-Nice,6,race/paris-nice/2018/stage-6,2018-03-09,198.0,3189,"['location/col-de-luens', 'location/col-bas', 'location/cote-de-cipieres', 'location/gourdon', 'location/cote-de-la-colle-sur-loup']",936,153,1.3 km solo
+race/paris-nice/2018,Paris-Nice,7,race/paris-nice/2018/stage-7,2018-03-10,175.0,4044,"['location/cote-de-gattieres', 'location/cote-de-la-sainte-baume2', 'location/col-de-saint-raphael', 'location/cote-de-villars-sur-var', 'location/col-saint-martin']",936,274,1.5 km solo
+race/paris-nice/2018,Paris-Nice,8,race/paris-nice/2018/stage-8,2018-03-11,110.0,2165,"['location/cote-de-levens', 'location/cote-de-chateauneuf-de-contes', 'location/cote-de-calaison', 'location/cote-de-peille', 'location/col-d-eze', 'location/col-des-quatre-chemins']",936,145,Sprint à deux
+race/paris-nice/2019,Paris-Nice,1,race/paris-nice/2019/stage-1,2019-03-10,138.5,1107,"['location/cote-de-beynes', 'location/cote-de-beule']",1099,26,Sprint of large group
+race/paris-nice/2019,Paris-Nice,2,race/paris-nice/2019/stage-2,2019-03-11,163.5,753,"['location/cote-de-senlisse', 'location/cote-des-granges-le-roi']",1099,7,Sprint of 35 riders
+race/paris-nice/2019,Paris-Nice,3,race/paris-nice/2019/stage-3,2019-03-12,200.0,896,[],1099,5,Sprint of large group
+race/paris-nice/2019,Paris-Nice,4,race/paris-nice/2019/stage-4,2019-03-13,212.0,2969,"['location/cote-de-cheval-rigon', 'location/cote-de-treves', 'location/cote-de-condrieu', 'location/cote-de-saint-michel-sur-rhone', 'location/cote-de-chavanay']",1099,110,0.9 km solo
+race/paris-nice/2019,Paris-Nice,5,race/paris-nice/2019/stage-5,2019-03-14,25.5,157,[],1099,8,Time Trial
+race/paris-nice/2019,Paris-Nice,6,race/paris-nice/2019/stage-6,2019-03-15,176.5,2029,"['location/cote-de-la-sainte-baume', 'location/cote-de-mazaugues', 'location/cote-de-sainte-philomene']",1099,57,Sprint of large group
+race/paris-nice/2019,Paris-Nice,7,race/paris-nice/2019/stage-7,2019-03-16,181.5,4332,"['location/cote-de-gattieres', 'location/gourdon', 'location/cote-de-coursegoules', 'location/cote-de-gilette', 'location/cote-de-pelasque', 'location/col-de-turini']",1099,351,0.1 km solo
+race/paris-nice/2019,Paris-Nice,8,race/paris-nice/2019/stage-8,2019-03-17,110.0,2165,"['location/cote-de-levens', 'location/cote-de-chateauneuf-de-contes', 'location/cote-de-calaison', 'location/cote-de-peille', 'location/col-d-eze', 'location/col-des-quatre-chemins']",1099,145,12.7 km solo
+race/paris-nice/2021,Paris-Nice,1,race/paris-nice/2021/stage-1,2021-03-07,165.8,1525,"['location/cote-de-senlisse', 'location/cote-de-meridon']",1044,49,Sprint of large group
+race/paris-nice/2021,Paris-Nice,2,race/paris-nice/2021/stage-2,2021-03-08,188.0,1057,['location/cote-des-granges-le-roi'],1044,8,Sprint of large group
+race/paris-nice/2021,Paris-Nice,3,race/paris-nice/2021/stage-3,2021-03-09,14.4,102,[],1044,13,Time Trial
+race/paris-nice/2021,Paris-Nice,4,race/paris-nice/2021/stage-4,2021-03-10,187.6,3540,"['location/col-des-chevres', 'location/col-de-la-pistole', 'location/cote-de-croix-de-montmain', 'location/cote-de-la-roche-de-solutre', 'location/mont-brouilly', 'location/chiroubles']",1044,239,3 km solo
+race/paris-nice/2021,Paris-Nice,5,race/paris-nice/2021/stage-5,2021-03-11,200.2,926,['location/cote-de-saint-restitut'],1044,18,Sprint of large group
+race/paris-nice/2021,Paris-Nice,6,race/paris-nice/2021/stage-6,2021-03-12,202.4,3181,"['location/cote-des-tuilieres', 'location/cote-de-mont-meaulx', 'location/cote-de-cabris', 'location/col-du-ferrier', 'location/gourdon']",1044,125,Sprint of large group
+race/paris-nice/2021,Paris-Nice,7,race/paris-nice/2021/stage-7,2021-03-13,119.2,3127,"['location/cote-de-gilette', 'location/col-de-la-sigale', 'location/cote-de-saint-antonin', 'location/col-saint-martin']",1044,251,Sprint of small group
+race/paris-nice/2021,Paris-Nice,8,race/paris-nice/2021/stage-8,2021-03-14,92.7,2007,['location/cote-de-duranus'],1044,167,Sprint of small group
+race/paris-nice/2022,Paris-Nice,1,race/paris-nice/2022/stage-1,2022-03-06,159.8,1723,"['location/cote-de-vetheuil', 'location/cote-de-la-route-des-cretes', 'location/cote-de-breuil-bois-robert']",1182,56,Other
+race/paris-nice/2022,Paris-Nice,2,race/paris-nice/2022/stage-2,2022-03-07,159.2,707,"['location/cote-de-17-tournants', 'location/cote-de-choisel']",1182,8,Sprint of large group
+race/paris-nice/2022,Paris-Nice,3,race/paris-nice/2022/stage-3,2022-03-08,190.8,1929,"['location/cote-d-eguzon', 'location/cote-de-crozant', 'location/cote-de-le-peyroux']",1182,63,Sprint of large group
+race/paris-nice/2022,Paris-Nice,4,race/paris-nice/2022/stage-4,2022-03-09,13.4,188,['location/cote-de-la-rue-buffon'],1182,18,Time Trial
+race/paris-nice/2022,Paris-Nice,5,race/paris-nice/2022/stage-5,2022-03-10,188.8,3408,"['location/col-de-la-croix-de-chaubouret', 'location/cote-de-saint-jeure-d-ay', 'location/cote-de-saint-romain-de-lerps', 'location/cote-de-toulaud', 'location/col-de-la-mure']",1182,188,38.7 km solo
+race/paris-nice/2022,Paris-Nice,6,race/paris-nice/2022/stage-6,2022-03-11,213.6,2878,"['location/col-de-murs', 'location/col-de-sambuc', 'location/col-des-portes-aix-en-provence', 'location/pas-de-la-couelle', 'location/col-de-l-espigoulier']",1182,97,9.1 km solo
+race/paris-nice/2022,Paris-Nice,7,race/paris-nice/2022/stage-7,2022-03-12,155.2,3582,"['location/cote-de-coursegoules', 'location/col-de-turini']",1182,303,Sprint of small group
+race/paris-nice/2022,Paris-Nice,8,race/paris-nice/2022/stage-8,2022-03-13,115.6,2436,"['location/cote-de-levens', 'location/col-de-chateauneuf', 'location/col-de-berre-les-alpes', 'location/cote-de-peille', 'location/col-d-eze']",1182,184,19.2 km solo
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,1,race/volta-a-catalunya/2018/stage-1,2018-03-19,152.3,2612,['location/port-de-collsacreu'],659,94,Sprint of large group
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,2,race/volta-a-catalunya/2018/stage-2,2018-03-20,175.6,3221,"['location/port-de-la-font-de-la-cera', 'location/coll-de-lilla']",659,118,Sprint of large group
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,3,race/volta-a-catalunya/2018/stage-3,2018-03-21,153.2,2782,"['location/coll-de-bracons', 'location/port-de-collabos']",659,119,? km solo
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,4,race/volta-a-catalunya/2018/stage-4,2018-03-22,170.8,4173,"['location/port-d-el-jou', 'location/port-de-la-creueta', 'location/la-molina-alp']",659,290,Sprint à deux
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,5,race/volta-a-catalunya/2018/stage-5,2018-03-23,212.9,3681,"['location/port-del-canto', 'location/port-de-la-creu-de-perves']",659,170,0.8 km solo
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,6,race/volta-a-catalunya/2018/stage-6,2018-03-24,117.0,1469,['location/port-d-ager'],659,52,Sprint à deux
+race/volta-a-catalunya/2018,Volta Ciclista a Catalunya,7,race/volta-a-catalunya/2018/stage-7,2018-03-25,154.8,2008,"['location/port-d-ullastrell', 'location/port-de-corbera', 'location/montjuic']",659,118,5.3 km solo
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,1,race/volta-a-catalunya/2019/stage-1,2019-03-25,163.7,3015,"['location/port-de-collsacreu', 'location/port-de-santa-fe-del-montseny', 'location/alt-el-muntanya', 'location/coll-formic']",918,105,60 km solo
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,2,race/volta-a-catalunya/2019/stage-2,2019-03-26,166.7,1725,"['location/alt-de-can-bordoi', 'location/alt-de-santa-pellaia', 'location/alt-de-romanya']",918,57,Sprint of large group
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,3,race/volta-a-catalunya/2019/stage-3,2019-03-27,179.0,3899,"['location/alt-de-la-ganga', 'location/port-d-oix', 'location/port-de-rocabruna', 'location/vallter-2000-setcases']",918,304,Sprint of small group
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,4,race/volta-a-catalunya/2019/stage-4,2019-03-28,150.3,3500,"['location/coll-de-coubet', 'location/port-de-la-creueta', 'location/la-molina-alp']",918,228,? km solo
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,5,race/volta-a-catalunya/2019/stage-5,2019-03-29,188.1,2705,"['location/port-de-la-collada-de-toses', 'location/collet-de-sant-agusti']",918,81,11.5 km solo
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,6,race/volta-a-catalunya/2019/stage-6,2019-03-30,169.1,2025,"['location/coll-d-albarca', 'location/coll-d-alforja']",918,43,Sprint of large group
+race/volta-a-catalunya/2019,Volta Ciclista a Catalunya,7,race/volta-a-catalunya/2019/stage-7,2019-03-31,143.1,2225,"['location/coll-de-la-creu-d-ordal', 'location/montjuic']",918,118,? km solo
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,1,race/volta-a-catalunya/2021/stage-1,2021-03-22,178.4,2819,"['location/port-de-les-guilleries', 'location/port-de-santa-fe-del-montseny', 'location/port-de-collsacreu']",772,97,Sprint of small group
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,2,race/volta-a-catalunya/2021/stage-2,2021-03-23,18.5,198,[],772,12,Time Trial
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,3,race/volta-a-catalunya/2021/stage-3,2021-03-24,203.1,3755,['location/vallter-2000-setcases'],772,229,1.5 km solo
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,4,race/volta-a-catalunya/2021/stage-4,2021-03-25,166.5,3980,"['location/port-de-la-collada-de-toses', 'location/port-del-canto', 'location/port-aine']",772,312,7 km solo
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,5,race/volta-a-catalunya/2021/stage-5,2021-03-26,201.1,2952,"['location/coll-de-comiols', 'location/puerto-de-monserrat']",772,115,12 km solo
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,6,race/volta-a-catalunya/2021/stage-6,2021-03-27,193.8,2671,"['location/port-d-ullastrell', 'location/alt-el-collet']",772,68,Sprint of large group
+race/volta-a-catalunya/2021,Volta Ciclista a Catalunya,7,race/volta-a-catalunya/2021/stage-7,2021-03-28,133.0,2402,"['location/coll-de-la-creu-d-ordal', 'location/montjuic']",772,194,5.2 km solo
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,1,race/volta-a-catalunya/2022/stage-1,2022-03-21,171.2,1688,"['location/alt-de-santa-pellaia', 'location/alt-de-la-ganga', 'location/alt-de-romanya']",722,58,Sprint of large group
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,2,race/volta-a-catalunya/2022/stage-2,2022-03-22,202.4,2166,"['location/coll-de-sa-perafita', 'location/coll-del-frare', 'location/coll-dels-belitres']",722,57,Sprint of large group
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,3,race/volta-a-catalunya/2022/stage-3,2022-03-23,161.1,3394,"['location/montee-de-mont-louis', 'location/port-de-la-collada-de-toses', 'location/la-molina-alp']",722,175,7.2 km solo
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,4,race/volta-a-catalunya/2022/stage-4,2022-03-24,166.7,3538,"['location/coll-de-boixols', 'location/port-de-la-creu-de-perves', 'location/boi-taull']",722,221,Sprint of small group
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,5,race/volta-a-catalunya/2022/stage-5,2022-03-25,206.3,2478,['location/coll-de-comiols'],722,57,Sprint of large group
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,6,race/volta-a-catalunya/2022/stage-6,2022-03-26,168.6,2706,"['location/coll-de-les-llebres', 'location/coll-de-capafonts', 'location/coll-de-la-teixeta']",722,90,Sprint à deux
+race/volta-a-catalunya/2022,Volta Ciclista a Catalunya,7,race/volta-a-catalunya/2022/stage-7,2022-03-27,138.6,2121,['location/montjuic'],722,154,Sprint of small group
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,1,race/volta-a-catalunya/2023/stage-1,2023-03-20,164.6,2091,"['location/alt-de-santa-pellaia', 'location/alt-de-els-angels', 'location/alt-de-la-ganga', 'location/alt-de-romanya']",704,72,Sprint of small group
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,2,race/volta-a-catalunya/2023/stage-2,2023-03-21,165.4,3291,"['location/alt-de-can-bordoi', 'location/coll-de-coubet', 'location/vallter-2000-setcases']",704,238,Sprint of small group
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,3,race/volta-a-catalunya/2023/stage-3,2023-03-22,180.6,3998,"['location/coll-de-coubet', 'location/port-de-la-creueta', 'location/la-molina-alp']",704,230,Sprint à deux
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,4,race/volta-a-catalunya/2023/stage-4,2023-03-23,188.2,2437,"['location/la-molina-alp', 'location/collet-de-sant-agusti', 'location/coll-de-lligabosses']",704,89,Sprint of large group
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,5,race/volta-a-catalunya/2023/stage-5,2023-03-24,176.6,2644,"['location/alt-de-bot', 'location/coll-de-som', 'location/lo-port']",704,209,Sprint à deux
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,6,race/volta-a-catalunya/2023/stage-6,2023-03-25,174.1,2534,['location/alt-de-la-creu-d-aragall'],704,96,Sprint of large group
+race/volta-a-catalunya/2023,Volta Ciclista a Catalunya,7,race/volta-a-catalunya/2023/stage-7,2023-03-26,135.8,1842,"['location/alt-de-begues', 'location/montjuic']",704,160,Sprint à deux
+race/dauphine/2018,Critérium du Dauphiné,1,race/dauphine/2018/prologue,2018-06-03,6.6,30,[],762,0,Time Trial
+race/dauphine/2018,Critérium du Dauphiné,2,race/dauphine/2018/stage-1,2018-06-04,179.0,2841,[],762,94,Sprint of large group
+race/dauphine/2018,Critérium du Dauphiné,3,race/dauphine/2018/stage-2,2018-06-05,181.0,2336,[],762,77,Sprint of large group
+race/dauphine/2018,Critérium du Dauphiné,4,race/dauphine/2018/stage-3,2018-06-06,35.0,207,[],762,4,Time Trial
+race/dauphine/2018,Critérium du Dauphiné,5,race/dauphine/2018/stage-4,2018-06-07,181.0,3227,[],762,253,Sprint of 11 riders
+race/dauphine/2018,Critérium du Dauphiné,6,race/dauphine/2018/stage-5,2018-06-08,130.0,2635,[],762,200,3.1 km solo
+race/dauphine/2018,Critérium du Dauphiné,7,race/dauphine/2018/stage-6,2018-06-09,110.0,4187,[],762,351,8.1 km solo
+race/dauphine/2018,Critérium du Dauphiné,8,race/dauphine/2018/stage-7,2018-06-10,136.0,4222,[],762,339,Sprint à deux
+race/dauphine/2019,Critérium du Dauphiné,1,race/dauphine/2019/stage-1,2019-06-09,142.0,2500,[],973,126,Sprint of large group
+race/dauphine/2019,Critérium du Dauphiné,2,race/dauphine/2019/stage-2,2019-06-10,180.0,3127,[],973,163,Sprint à deux
+race/dauphine/2019,Critérium du Dauphiné,3,race/dauphine/2019/stage-3,2019-06-11,177.0,1424,[],973,29,Sprint of large group
+race/dauphine/2019,Critérium du Dauphiné,4,race/dauphine/2019/stage-4,2019-06-12,26.1,341,[],973,28,Time Trial
+race/dauphine/2019,Critérium du Dauphiné,5,race/dauphine/2019/stage-5,2019-06-13,201.0,2098,[],973,36,Sprint of large group
+race/dauphine/2019,Critérium du Dauphiné,6,race/dauphine/2019/stage-6,2019-06-14,229.0,3715,[],973,162,Sprint à deux
+race/dauphine/2019,Critérium du Dauphiné,7,race/dauphine/2019/stage-7,2019-06-15,133.5,4343,[],973,413,Sprint of small group
+race/dauphine/2019,Critérium du Dauphiné,8,race/dauphine/2019/stage-8,2019-06-16,113.5,2993,[],973,209,Sprint à deux
+race/dauphine/2020,Critérium du Dauphiné,1,race/dauphine/2020/stage-1,2020-08-12,218.5,3575,[],1243,128,Sprint of large group
+race/dauphine/2020,Critérium du Dauphiné,2,race/dauphine/2020/stage-2,2020-08-13,135.0,2878,[],1243,309,0.65 km solo
+race/dauphine/2020,Critérium du Dauphiné,3,race/dauphine/2020/stage-3,2020-08-14,157.0,3472,[],1243,308,65 km solo
+race/dauphine/2020,Critérium du Dauphiné,4,race/dauphine/2020/stage-4,2020-08-15,148.5,4669,[],1243,322,4.5 km solo
+race/dauphine/2020,Critérium du Dauphiné,5,race/dauphine/2020/stage-5,2020-08-16,142.5,4391,[],1243,310,8.8 km solo
+race/dauphine/2021,Critérium du Dauphiné,1,race/dauphine/2021/stage-1,2021-05-30,181.8,2308,"['location/cote-de-bergonne', 'location/cote-du-chateau-de-buron', 'location/col-de-la-croix-des-gardes']",790,82,16.6 km solo
+race/dauphine/2021,Critérium du Dauphiné,2,race/dauphine/2021/stage-2,2021-05-31,172.8,3224,"['location/col-de-peyra-taillade', 'location/cote-de-la-vachellerie', 'location/cote-d-auvers', 'location/cote-de-la-foret-de-pourcheresse', 'location/cote-de-masset']",790,152,17.3 km solo
+race/dauphine/2021,Critérium du Dauphiné,3,race/dauphine/2021/stage-3,2021-06-01,172.2,2096,"['location/cote-dallegre', 'location/col-des-limites']",790,41,Sprint of large group
+race/dauphine/2021,Critérium du Dauphiné,4,race/dauphine/2021/stage-4,2021-06-02,16.4,317,[],790,29,Time Trial
+race/dauphine/2021,Critérium du Dauphiné,5,race/dauphine/2021/stage-5,2021-06-03,175.4,2209,"['location/cote-du-planil', 'location/cote-de-la-sizeranne', 'location/cote-de-hauterives', 'location/col-de-barbe-bleue', 'location/cote-du-montrebut']",790,93,0.95 km solo
+race/dauphine/2021,Critérium du Dauphiné,6,race/dauphine/2021/stage-6,2021-06-04,167.2,2706,"['location/col-de-la-placette', 'location/col-de-porte', 'location/cote-de-la-frette', 'location/le-sappey-en-chartreuse']",790,203,Sprint of small group
+race/dauphine/2021,Critérium du Dauphiné,7,race/dauphine/2021/stage-7,2021-06-05,171.1,4163,"['location/cote-de-venthon', 'location/col-du-pre', 'location/cormet-de-roselend', 'location/la-plagne']",790,368,4.7 km solo
+race/dauphine/2021,Critérium du Dauphiné,8,race/dauphine/2021/stage-8,2021-06-06,147.0,4190,"['location/cote-desserts-blay', 'location/cote-d-hery-sur-ugine', 'location/col-des-aravis', 'location/col-de-la-colombiere', 'location/cote-de-chatillon-sur-cluses', 'location/col-de-joux-plane']",790,304,27.5 km solo
+race/dauphine/2022,Critérium du Dauphiné,1,race/dauphine/2022/stage-1,2022-06-05,191.8,2473,"['location/col-de-leyrisse', 'location/cote-des-baraques-saint-apollinaire-de-rias', 'location/cote-du-chambon-de-bavas']",789,74,Sprint of large group
+race/dauphine/2022,Critérium du Dauphiné,2,race/dauphine/2022/stage-2,2022-06-06,169.8,2956,"['location/col-de-desaignes', 'location/cote-de-saint-agreve', 'location/col-de-mezilhac', 'location/cote-de-rohac']",789,91,Sprint of small group
+race/dauphine/2022,Critérium du Dauphiné,3,race/dauphine/2022/stage-3,2022-06-07,169.0,2707,"['location/cote-de-saint-vert', 'location/cote-de-besse-en-chandesse', 'location/chastreix-sancy']",789,140,Sprint of small group
+race/dauphine/2022,Critérium du Dauphiné,4,race/dauphine/2022/stage-4,2022-06-08,31.9,96,[],789,1,Time Trial
+race/dauphine/2022,Critérium du Dauphiné,5,race/dauphine/2022/stage-5,2022-06-09,162.3,1991,"['location/col-des-ecorbans', 'location/cote-de-dun', 'location/col-du-bois-clair', 'location/cote-de-vergisson']",789,60,Sprint of large group
+race/dauphine/2022,Critérium du Dauphiné,6,race/dauphine/2022/stage-6,2022-06-10,196.5,2958,"['location/cote-de-sainte-eulalie-en-royans', 'location/cote-des-grands-goulets', 'location/col-de-rousset', 'location/col-de-cabre']",789,74,0.7 km solo
+race/dauphine/2022,Critérium du Dauphiné,7,race/dauphine/2022/stage-7,2022-06-11,134.8,3828,"['location/col-du-galibier', 'location/col-de-la-croix-de-fer', 'location/vaujany']",789,311,5.7 km solo
+race/dauphine/2022,Critérium du Dauphiné,8,race/dauphine/2022/stage-8,2022-06-12,138.8,3782,"['location/col-de-plainpalais', 'location/col-de-leschaux', 'location/col-de-la-colombiere', 'location/plateau-de-solaison']",789,375,Other
+race/dauphine/2023,Critérium du Dauphiné,1,race/dauphine/2023/stage-1,2023-06-04,158.0,2753,"['location/cote-du-mont-dore', 'location/montee-de-la-stele', 'location/cote-du-rocher-de-l-aigle']",781,119,Sprint of large group
+race/dauphine/2023,Critérium du Dauphiné,2,race/dauphine/2023/stage-2,2023-06-05,167.3,2865,"['location/col-de-toutee', 'location/col-des-fourches-puy-de-dome', 'location/cote-des-guetes']",781,100,Sprint of large group
+race/dauphine/2023,Critérium du Dauphiné,3,race/dauphine/2023/stage-3,2023-06-06,194.1,2089,"['location/cote-de-bellevue-la-montagne', 'location/cote-de-pinay']",781,44,Sprint of large group
+race/dauphine/2023,Critérium du Dauphiné,4,race/dauphine/2023/stage-4,2023-06-07,31.1,408,[],781,20,Time Trial
+race/dauphine/2023,Critérium du Dauphiné,5,race/dauphine/2023/stage-5,2023-06-08,191.1,2018,"['location/cote-de-chateau-chalon', 'location/cote-d-ivory', 'location/cote-de-thesy']",781,98,15.8 km solo
+race/dauphine/2023,Critérium du Dauphiné,6,race/dauphine/2023/stage-6,2023-06-09,170.2,3406,"['location/cote-de-clermont-en-genevois', 'location/col-des-aravis', 'location/cote-de-notre-dame-de-bellecombe', 'location/crest-voland-cohennoz']",781,243,Sprint à deux
+race/dauphine/2023,Critérium du Dauphiné,7,race/dauphine/2023/stage-7,2023-06-10,147.9,4015,"['location/col-de-la-madeleine', 'location/col-du-mollard', 'location/col-de-la-croix-de-fer']",781,312,5.3 km solo
+race/dauphine/2023,Critérium du Dauphiné,8,race/dauphine/2023/stage-8,2023-06-11,152.8,4160,"['location/col-de-pinet', 'location/col-des-mouilles', 'location/col-du-granier', 'location/col-du-cucheron', 'location/col-de-porte', 'location/bastille-grenoble']",781,328,20 km solo
